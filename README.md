@@ -1,2 +1,2 @@
 # xisen
-live
+live https://manik-roy.github.io/xisen/
